@@ -1,0 +1,210 @@
+text,label
+cheese burger,FAST_FOOD
+chicken burger,FAST_FOOD
+veg burger with fries,FAST_FOOD
+aloo tikki burger,FAST_FOOD
+double patty burger,FAST_FOOD
+margherita pizza,FAST_FOOD
+pepperoni pizza 2 slices,FAST_FOOD
+farmhouse pizza,FAST_FOOD
+paneer tikka pizza,FAST_FOOD
+cheese garlic bread,FAST_FOOD
+chicken hot dog,FAST_FOOD
+grilled cheese sandwich,FAST_FOOD
+club sandwich,FAST_FOOD
+paneer kathi roll,FAST_FOOD
+chicken shawarma roll,FAST_FOOD
+egg roll,FAST_FOOD
+chicken frankie,FAST_FOOD
+instant noodles masala,FAST_FOOD
+hakka noodles,FAST_FOOD
+schezwan fried rice,FAST_FOOD
+pav bhaji,FAST_FOOD
+cheese nachos,FAST_FOOD
+chicken wrap,FAST_FOOD
+loaded fries with cheese,FAST_FOOD
+chicken nuggets meal,FAST_FOOD
+cheese pasta alfredo,FAST_FOOD
+white sauce pasta,FAST_FOOD
+tacos,FAST_FOOD
+chilli cheese toast,FAST_FOOD
+maggi,FAST_FOOD
+vada pav,FRIED_SNACKS
+samosa 2 pcs,FRIED_SNACKS
+onion pakoda,FRIED_SNACKS
+aloo bonda,FRIED_SNACKS
+french fries,FRIED_SNACKS
+peri peri fries,FRIED_SNACKS
+kachori,FRIED_SNACKS
+bread pakora,FRIED_SNACKS
+fried chicken wings,FRIED_SNACKS
+chicken 65,FRIED_SNACKS
+crispy corn,FRIED_SNACKS
+chilli potato,FRIED_SNACKS
+fish fingers,FRIED_SNACKS
+potato wedges fried,FRIED_SNACKS
+spring rolls fried,FRIED_SNACKS
+mirchi bajji,FRIED_SNACKS
+medu vada,FRIED_SNACKS
+batata vada,FRIED_SNACKS
+fried momos,FRIED_SNACKS
+onion rings,FRIED_SNACKS
+pani puri,FRIED_SNACKS
+sev puri,FRIED_SNACKS
+banana chips,FRIED_SNACKS
+cheese balls fried,FRIED_SNACKS
+popcorn chicken,FRIED_SNACKS
+dabeli,FRIED_SNACKS
+namkeen mixture,FRIED_SNACKS
+jalebi fafda,FRIED_SNACKS
+chakli,FRIED_SNACKS
+fried paneer pakoda,FRIED_SNACKS
+cola 500 ml,SUGARY_BEVERAGES
+pepsi,SUGARY_BEVERAGES
+coca cola can,SUGARY_BEVERAGES
+orange soda,SUGARY_BEVERAGES
+lemon soda sweetened,SUGARY_BEVERAGES
+cold coffee,SUGARY_BEVERAGES
+iced mocha frappe,SUGARY_BEVERAGES
+chocolate milkshake,SUGARY_BEVERAGES
+strawberry shake,SUGARY_BEVERAGES
+oreo shake,SUGARY_BEVERAGES
+mango lassi,SUGARY_BEVERAGES
+sweet lassi,SUGARY_BEVERAGES
+packaged fruit juice,SUGARY_BEVERAGES
+mixed fruit juice tetra pack,SUGARY_BEVERAGES
+energy drink,SUGARY_BEVERAGES
+iced tea peach,SUGARY_BEVERAGES
+bubble tea,SUGARY_BEVERAGES
+masala chai with sugar,SUGARY_BEVERAGES
+hot chocolate,SUGARY_BEVERAGES
+rose milk,SUGARY_BEVERAGES
+badam milk sweetened,SUGARY_BEVERAGES
+falooda drink,SUGARY_BEVERAGES
+sugarcane juice,SUGARY_BEVERAGES
+mojito mocktail,SUGARY_BEVERAGES
+blue lagoon mocktail,SUGARY_BEVERAGES
+thums up,SUGARY_BEVERAGES
+sprite,SUGARY_BEVERAGES
+frooti mango drink,SUGARY_BEVERAGES
+caramel frappuccino,SUGARY_BEVERAGES
+sweetened lemonade,SUGARY_BEVERAGES
+gulab jamun 2 pcs,DESSERTS
+rasgulla,DESSERTS
+chocolate brownie,DESSERTS
+ice cream tub,DESSERTS
+vanilla ice cream cup,DESSERTS
+chocolate cake slice,DESSERTS
+red velvet pastry,DESSERTS
+cheesecake,DESSERTS
+kulfi,DESSERTS
+rasmalai,DESSERTS
+gajar halwa,DESSERTS
+moong dal halwa,DESSERTS
+kaju katli,DESSERTS
+jalebi,DESSERTS
+chocolate chip cookies,DESSERTS
+donut glazed,DESSERTS
+waffle with chocolate sauce,DESSERTS
+pancakes with maple syrup,DESSERTS
+sizzling brownie with ice cream,DESSERTS
+tiramisu,DESSERTS
+kheer,DESSERTS
+shrikhand,DESSERTS
+mysore pak,DESSERTS
+cupcake,DESSERTS
+choco lava cake,DESSERTS
+sundae,DESSERTS
+gelato,DESSERTS
+payasam,DESSERTS
+motichoor laddu,DESSERTS
+chocolate mousse,DESSERTS
+dal khichdi bowl,BALANCED_MEALS
+grilled chicken rice bowl,BALANCED_MEALS
+idli sambar,BALANCED_MEALS
+veg thali,BALANCED_MEALS
+roti dal sabzi,BALANCED_MEALS
+chapati with mixed vegetable curry,BALANCED_MEALS
+quinoa salad bowl with chickpeas,BALANCED_MEALS
+grilled fish with vegetables,BALANCED_MEALS
+whole wheat veg sandwich,BALANCED_MEALS
+brown rice and rajma,BALANCED_MEALS
+curd rice,BALANCED_MEALS
+vegetable upma,BALANCED_MEALS
+poha with peanuts,BALANCED_MEALS
+oats porridge,BALANCED_MEALS
+egg white omelette with toast,BALANCED_MEALS
+paneer tikka with salad,BALANCED_MEALS
+grilled paneer bowl,BALANCED_MEALS
+chicken salad bowl,BALANCED_MEALS
+moong dal cheela,BALANCED_MEALS
+steamed rice with dal and vegetables,BALANCED_MEALS
+ragi dosa with chutney,BALANCED_MEALS
+millet khichdi,BALANCED_MEALS
+tandoori chicken with roti,BALANCED_MEALS
+lentil soup with bread,BALANCED_MEALS
+vegetable pulao with raita,BALANCED_MEALS
+besan chilla,BALANCED_MEALS
+egg bhurji with multigrain roti,BALANCED_MEALS
+tofu stir fry with rice,BALANCED_MEALS
+south indian mini meals,BALANCED_MEALS
+sprouts and dal combo meal,BALANCED_MEALS
+fruit bowl,FRUITS_VEGETABLES
+fresh fruit salad,FRUITS_VEGETABLES
+green salad,FRUITS_VEGETABLES
+cut papaya,FRUITS_VEGETABLES
+watermelon slices,FRUITS_VEGETABLES
+banana,FRUITS_VEGETABLES
+apple slices,FRUITS_VEGETABLES
+mixed berries cup,FRUITS_VEGETABLES
+cucumber carrot sticks,FRUITS_VEGETABLES
+sprouts chaat,FRUITS_VEGETABLES
+kachumber salad,FRUITS_VEGETABLES
+pomegranate cup,FRUITS_VEGETABLES
+guava with chilli salt,FRUITS_VEGETABLES
+pineapple chunks,FRUITS_VEGETABLES
+steamed vegetables,FRUITS_VEGETABLES
+corn and veggie salad,FRUITS_VEGETABLES
+greek salad,FRUITS_VEGETABLES
+caesar salad no dressing,FRUITS_VEGETABLES
+grapes bowl,FRUITS_VEGETABLES
+mango slices fresh,FRUITS_VEGETABLES
+orange segments,FRUITS_VEGETABLES
+roasted sweet potato,FRUITS_VEGETABLES
+beetroot salad,FRUITS_VEGETABLES
+tomato cucumber salad,FRUITS_VEGETABLES
+chana chaat,FRUITS_VEGETABLES
+fruit chaat,FRUITS_VEGETABLES
+avocado salad,FRUITS_VEGETABLES
+boiled corn,FRUITS_VEGETABLES
+muskmelon,FRUITS_VEGETABLES
+coconut water fresh,OTHER
+chicken biryani,OTHER
+veg biryani,OTHER
+mutton biryani,OTHER
+masala dosa,OTHER
+plain dosa,OTHER
+chicken momos steamed,OTHER
+veg momos,OTHER
+butter chicken,OTHER
+paneer butter masala,OTHER
+dal makhani,OTHER
+chole bhature,OTHER
+aloo paratha,OTHER
+butter naan,OTHER
+chicken curry,OTHER
+egg curry,OTHER
+fish curry rice,OTHER
+buttermilk chaas,OTHER
+plain water bottle,OTHER
+black coffee unsweetened,OTHER
+green tea,OTHER
+mutton rogan josh,OTHER
+hyderabadi haleem,OTHER
+kadai paneer,OTHER
+rajma chawal,OTHER
+uttapam,OTHER
+appam with stew,OTHER
+chicken korma,OTHER
+pav with misal,OTHER
+soya chaap gravy,OTHER
